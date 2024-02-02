@@ -17,7 +17,7 @@ The necessary migration scripts are provided in the **migrations** folder.
 Deploying the smart contracts to Ganache is straightforward; simply execute the **truffle migrate** command.
 
 The React-based web application requires the **Node.js** runtime environment for its execution.
-Once Node.js is installed, download the needed dependencies, by running the node command
+Once Node.js is installed, download the needed dependencies, by running the Node command
 **npm install**, in a terminal which sees the root folder of the project.
 After successfully downloading the dependencies, initiate the application by running the **npm start** command.
 This will launch a simple Node.js server and deploy the web application to it.
